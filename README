@@ -1,0 +1,15 @@
+________ ________ _________________ ______ _________ _____  __________
+___  __ )___  __ \___  ____/___    |___  //_/__  __ \__  / / /___  __/
+__  __  |__  /_/ /__  __/   __  /| |__  ,<   _  / / /_  / / / __  /   
+_  /_/ / _  _, _/ _  /___   _  ___ |_  /| |  / /_/ / / /_/ /  _  /    
+/_____/  /_/ |_|  /_____/   /_/  |_|/_/ |_|  \____/  \____/   /_/     
+                                                                      
+
+REAMDE
+    A version of the game Breakout built with Unity in 2013 before the 4.3 2D update. The game uses 3D objects to recreate the original 2D gameplay. Created as instructional material for an introduction to games programming class.
+
+
+DEMO
+    A demo of the project is available at:
+
+        http://www.justusrobertson.com/Unity/Breakout
